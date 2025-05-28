@@ -50,6 +50,11 @@ streamlit run gmail_ai_search.py
 - You can only use Gmail accounts that are test users in your Google Cloud project unless the app is verified.
 
 ---
+## Image
+
+![Screenshot 2025-05-27 200912](https://github.com/user-attachments/assets/a6e0c704-3b8f-43b8-b475-a012c3aaf720)
+
+---
 
 ## To-Do / Future Improvements
 - Export matched emails
